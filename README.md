@@ -28,7 +28,7 @@ To run this project locally:
 1. Clone this repository:  
    `git clone https://github.com/chandra731/FIFA23-Data-Science-Project.git`
 2. Navigate to the project directory:  
-   `cd fifa23-data-analysis``
+   `cd FIFA23-Data-Science-Project`
 3. Open the notebooks and run the cells sequentially to reproduce the analysis.
 
 ## Conclusion
